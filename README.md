@@ -36,8 +36,15 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Srikari Chopperla J</b>, a passionate <b>Computer Science Engineering student & Chess Player</b> based in India.<br />
-  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
+  Hey! I'm <b>Srikari Chopperla J</b>, a passionate <b>Computer Science Engineering student & Chess Player</b> 
+  <br />
+ My name is SRIKARI CHOPPERLA currently pursuing computer science engineering in Stanley College of Engineering and Technology for Women.Expanding my knowledge by learning core subjects right now and Looking forward to connect with people who share the same passion as myself.
+  SCHOOLING- JOHNSON GRAMMAR SCHOOL ICSE
+INTERMEDIATE-PHYSICS WALLAH
+ENGINEERING-STANLEY COLLEGE OF ENGINEERING FOR WOMEN
+  SKILLING IN CODING AND DESIGNING. PERFECT WITH BASICS. EXPLORING NEW THINGS. PASSIONATE IN PLAYING CHESS. I AM A PROFESSIONAL FRESHER LOOKING FOR OPPORTUNITIES. READY TO WORK.
+  ACHIEVEMENTS
+CISCE & South Zone CHESS NATIONAL GAMES and FIDE RATED CHESS PLAYER
 </p>
 
 <p align="center">
