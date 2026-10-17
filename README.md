@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Srikari Chopperla Header" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Srikari9">
@@ -121,8 +119,6 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
+
 
 
